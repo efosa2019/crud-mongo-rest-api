@@ -1,0 +1,20 @@
+{
+  "name": "crud-mongo-rest-api",
+  "version": "1.0.0",
+  "description": "REST API with Node, Express and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Efosa Alohan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "errorhandler": "1.5.1",
+    "express": "4.17.1",
+    "mongodb": "3.5.5",
+    "morgan": "1.10.0"
+  }
+}
